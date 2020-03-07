@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Jwonder 的博客
 email: 2771018987@qq.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -20,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sjw509
-
+zhihu_username: 企鹅东东
 # Build settings
 markdown: kramdown
 theme: minima
