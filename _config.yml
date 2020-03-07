@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to Jwonder9 的博客
+title:Jwonder9 的博客
 email: 2771018987@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   这是一个写点东西的地方，零零散散，以慰寂寥。
