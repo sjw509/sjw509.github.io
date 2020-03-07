@@ -18,7 +18,7 @@ title: Jwonder 的博客
 email: 2771018987@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   这是一个迷茫小子写点东西的地方，零零散散，以慰寂寥。
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "Jwonder/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sjw509
 zhihu_username: 企鹅东东
